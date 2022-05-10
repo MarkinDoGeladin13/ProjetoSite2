@@ -1,0 +1,61 @@
+.titulo{
+    background-color:blue;
+    color:red;
+    text-align:center;
+    display:flex;
+    justify-content:space-around;
+    border-radius: 3px;
+    border: 3px solid color midnightblue;
+    border-style:dotted;
+}
+.camelo{
+    background-color:royalblue;
+    color:fuchsia;
+    text-align:center;
+    justify-content:center;
+    border-radius: 3px;
+    border: 3px solid color midnightblue
+}
+.camaleao{
+    background-color:forestgreen;
+    color:black;
+    text-align:center;
+    justify-content:center;
+    border-radius: 3px;
+    border: 3px solid color midnightblue
+}
+.passarinho{
+    background-color:orange;
+    color:red;
+    text-align:center;
+    justify-content:center;
+    border-radius: 3px;
+    border: 3px solid color midnightblue
+}
+.panda{
+    background-color:black;
+    color:red;
+    text-align:center;
+    justify-content:center;
+    border-radius: 3px;
+    border: 3px solid color midnightblue
+}
+.urso{
+    background-color:maroon;
+    color:pink;
+    text-align:center;
+    justify-content:center;
+    border-radius: 3px;
+    border: 3px solid color midnightblue
+}
+
+
+
+
+
+
+
+
+
+
+
